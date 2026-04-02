@@ -1,0 +1,12 @@
+bedrock-agentcore
+cryptography
+fastapi
+httpx
+langchain
+langchain-groq
+langchain-mcp-adapters
+langgraph
+mcp
+pybreaker
+python-dotenv
+uvicorn
